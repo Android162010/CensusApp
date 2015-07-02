@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/owner/AndroidStudioProjects/CensusApp/app/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Réglages</string>
+    <string name="app_name">App Recensement</string>
+    <string name="contact_city_hint">Saisissez votre ville</string>
+    <string name="contact_name_hint">Entrez le nom</string>
+    <string name="contact_phone_number_hint">Entrez le numéro de téléphone</string>
+    <string name="contact_street_hint">Entrez rue</string>
+</resources>
